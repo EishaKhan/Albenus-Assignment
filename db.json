@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "name": "Eisha khan",
+      "email": "eisha231@gmail.com",
+      "phone": "222-2222-222",
+      "address": "GUNA"
+    },
+    {
+      "id": "4",
+      "name": "Shivam Verma",
+      "email": "shivam@gmail.com",
+      "phone": "999-999-99",
+      "address": "Khandwa"
+    },
+    {
+      "id": "3",
+      "name": "Rozy Khan",
+      "email": "rozykhan123@gmail.com",
+      "phone": "8959485854",
+      "address": "Jaipur"
+    },
+    {
+      "id": "2",
+      "name": "Raihan Khan",
+      "email": "raihan@gmail.com",
+      "phone": "433-666-990",
+      "address": "Bhopal"
+    },
+    {
+      "id": "1",
+      "name": "Shivani Ikhare",
+      "email": "Shivani@gamil.com",
+      "phone": "9889986776",
+      "address": "AshokNagar"
+    }
+  ]
+}
